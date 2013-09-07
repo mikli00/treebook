@@ -3,3 +3,9 @@ M:
  last_name: "L"
  email: "mlivsh@gmail.com"
  profile_name: "mikli00"
+
+jim:
+ first_name: "Jim"
+ last_name: "Hoskins"
+ email: "jim@teamtreehouse.com"
+ profile_name: "jimhoskins"
